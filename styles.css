@@ -1,0 +1,26 @@
+body {
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Courier, monospace, 'Times New Roman', Times, serif, Geneva, Verdana, sans-serif, Helvetica, sans-serif, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 10px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #8d99ae;
+    color: black;
+    border-bottom: 6px solid #d8cefe;
+    border-radius: 6px;
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
